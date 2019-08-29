@@ -5,7 +5,7 @@
 
 ###  a) Återskapa följande sida
 
-![a](../week6/repetition/images/ec_ovning_1280_bootstrap_1.png)
+![a](../CSS/images/ec_ovning_1280_bootstrap_1.png)
 
 ###  b) Återskapa följande sida
 
