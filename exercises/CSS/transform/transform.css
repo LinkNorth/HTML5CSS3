@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.shape {
+  height: 100px;
+  width: 100px;
+  border: 1px solid #ccc;
+}
+
+.circle {
+  border-radius: 50px;
+  /** Implement **/
+}
+
+.box {
+  /** Implement **/
+}
+
+.c1 {
+  /** Implement **/
+}
+
+.c2 {
+  /** Implement **/
+}
+
+.c3 {
+  /** Implement **/
+}
+
+.s-image {
+    width: 300px;
+}
+
+.image-container {
+  margin: 200px 0;
+}
+
+.image-container img,
+.shadow {
+  height: 300px;
+  background-color: #ccc;
+}
+
+.container.top {
+  background-image: url(resources/forest.jpg);
+  height: 500px;
+}
+
+.container.bottom {
+  background: #ddd;
+  height: 500px;
+}

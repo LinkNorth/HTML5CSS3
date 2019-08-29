@@ -1,0 +1,99 @@
+/* Övning 1 */
+
+.ex_1 .box {
+  width: 100px;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ccc;
+}
+
+.ex_1 .layout {
+
+}
+
+
+/* Övning 2 */
+
+.ex_2 .layout {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.ex_2 .layout .box {
+  height: 50px;
+  padding: 10px;
+  background: #F7A21B;
+}
+
+.ex_2 .layout > .box:nth-child(odd) {
+  background: #6A1384;
+}
+
+/* Övning 3 */
+
+.ex_3 .layout {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.ex_3 .layout .box {
+  height: 50px;
+  padding: 10px;
+  background: #F7A21B;
+}
+
+.ex_3 .layout > .box:nth-child(odd) {
+  background: #6A1384;
+}
+
+/* Övning 4 */
+
+.ex_4 .box {
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ccc;
+  text-align: center;
+}
+
+.ex_4 .layout {
+  height: 160px;
+  width: 50%;
+  border: 1px solid #ccc;
+}
+
+/* Övning 5 */
+
+.ex_5 .box {
+  width: 100px;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ccc;
+}
+
+.ex_5 .layout {
+  width: 600px;
+  border: 1px solid #ccc;
+}
+
+/* Övning 6 */
+
+.ex_6 .box {
+  width: 100px;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ccc;
+}
+
+.ex_6 .box:nth-child(odd) {
+  height: 40px;
+  width: 40px;
+}
+
+.ex_6 .layout {
+
+}
