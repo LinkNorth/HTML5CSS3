@@ -56,9 +56,3 @@ b) Rotera bilden med hjälp av `transform` enligt följande bild:
 c) Rotera bilden med hjälp av `transform` enligt följande bild:
 
 ![5c](images/5-c.png)
-
-
-## Övning 6
-Använd dig av bland annat `transform` för att skapa följande resultat:
-
-![7](images/7-1.png)
