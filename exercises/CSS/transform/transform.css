@@ -45,13 +45,3 @@
   height: 300px;
   background-color: #ccc;
 }
-
-.container.top {
-  background-image: url(resources/forest.jpg);
-  height: 500px;
-}
-
-.container.bottom {
-  background: #ddd;
-  height: 500px;
-}
