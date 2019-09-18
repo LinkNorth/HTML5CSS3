@@ -18,8 +18,6 @@ a) Bilden vänder sig upp och ner inom 2 sekunder från att animationen startat.
 
 b) Ändra så att animationen tar 4 sekunder.
 
-c) Ändra så att animationens hastighet ökar exponentiellt.
-
 ## Övning 3
 Använd `transition`-propertyn på bilderna på mynten för att göra följande animationer när man för muspekaren över __ett__ mynt:
 
